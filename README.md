@@ -26,3 +26,6 @@ Removing File:
     -Removed a committed file using the rm command.
 Restore Changes:
     -To restore changes made to local repo and roll back to original use command ‘git restore’.
+
+
+...
